@@ -1,0 +1,5 @@
+*.pyc
+**/chroma
+env/
+.env
+**/*.env*
